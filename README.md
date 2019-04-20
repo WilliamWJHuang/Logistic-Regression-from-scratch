@@ -1,2 +1,2 @@
-# machine-learning-course
-ECE590: Introductory Machine Learning for Data Science
+# Logistic Regression from Scratch
+Built a logistic regression from scratch
